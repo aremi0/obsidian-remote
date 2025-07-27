@@ -1,2 +1,2 @@
-# obsidian-remoteasd
+# obsidian-remote
 obsidian-remote
